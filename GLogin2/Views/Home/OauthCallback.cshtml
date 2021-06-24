@@ -1,0 +1,17 @@
+@model dynamic
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+
+<div class="row">
+    <div class="col-md-6 offset-md-3 mt-3">
+        <div class="card">
+            <div class="card-header">@ViewBag.RedirectUrl</div>
+            <div class="card-header">@ViewBag.Message</div>
+        </div>
+    </div>
+</div>
+

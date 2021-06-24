@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "3PX0pg+ageB2O3OBLOJqXHmYFoeLiHSSdSVy9eKTx3DSw7KDQglOPhnYXkMowB5h8IJOWEKJhf9UVSDsC0nssQ==",
+  "success": true,
+  "projectFilePath": "/Users/mesut.sariyer/RiderProjects/glogin/GLogin/GLogin.csproj",
+  "expectedPackageFiles": [
+    "/Users/mesut.sariyer/.nuget/packages/google.apis/1.51.0/google.apis.1.51.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/google.apis.auth/1.51.0/google.apis.auth.1.51.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/google.apis.auth.aspnetcore3/1.51.0/google.apis.auth.aspnetcore3.1.51.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/google.apis.core/1.51.0/google.apis.core.1.51.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/google.apis.drive.v3/1.51.0.2348/google.apis.drive.v3.1.51.0.2348.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/3.0.0/microsoft.aspnetcore.authentication.openidconnect.3.0.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.aspnetcore.authorization/3.0.0/microsoft.aspnetcore.authorization.3.0.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.aspnetcore.metadata/3.0.0/microsoft.aspnetcore.metadata.3.0.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.0.0/microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.0/microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.extensions.options/3.0.0/microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.extensions.primitives/3.0.0/microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.identitymodel.jsonwebtokens/5.5.0/microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.identitymodel.logging/5.5.0/microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.identitymodel.protocols/5.5.0/microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/5.5.0/microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/microsoft.identitymodel.tokens/5.5.0/microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/system.identitymodel.tokens.jwt/5.5.0/system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
+    "/Users/mesut.sariyer/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

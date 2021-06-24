@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bw8JLIPhlCiwtgEgHi4WvJyVojRO11aSyzjWV3T4kmCAEb7PlmGP4n6S4zYMd1Ta8bJ/4vScJGIp+SwTvQHgTw==",
+  "success": true,
+  "projectFilePath": "/Users/mesut.sariyer/RiderProjects/glogin/GLogin2/GLogin2.csproj",
+  "expectedPackageFiles": [
+    "/Users/mesut.sariyer/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
